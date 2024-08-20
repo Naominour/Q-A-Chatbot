@@ -10,9 +10,10 @@ In this project we develop a **Question & Answer (Q&A) chatbot** using **LangCha
 
 
 ## Features
-**Real-time Q&A:** Ask questions and receive responses instantly using the gpt-3.5-turbo model.
-**Streamlit Interface:** A simple and interactive user interface for asking questions.
-**Customizable Temperature:** Adjust the creativity of the responses by modifying the temperature parameter.
+
+- **Real-time Q&A:** Ask questions and receive responses instantly using the gpt-3.5-turbo model.
+- **Streamlit Interface:** A simple and interactive user interface for asking questions.
+- **Customizable Temperature:** Adjust the creativity of the responses by modifying the temperature parameter.
 
 
 ## Installation
