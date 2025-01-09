@@ -1,10 +1,2 @@
-# Virtual environments
-venv/
 .env/
-env/
-.venv/
-ENV/
-env.bak/
-
-# Ignore specific notebook
 .langchain.ipynb
